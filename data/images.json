@@ -1,0 +1,30 @@
+{
+  "data": [
+    { "category": "music", "src": "images/events.images/primavera.2025.png", "alt": "Music 1" },
+    { "category": "music", "src": "images/events.images/flamengo.png", "alt": "Music 2" },
+    {
+      "category": "food",
+      "src": "images/events.images/cocktail.png",
+      "alt": "Food 1"
+    },
+    { "category": "food", 
+      "src": "images/events.images/barca.food.png", 
+      "alt": "Food 2" },
+    {
+      "category": "performing",
+      "src": "images/events.images/goya.film.png",
+      "alt": "Performing 1"
+    },
+    {
+      "category": "performing",
+      "src": "images/events.images/san.jordi.png",
+      "alt": "Performing 2"
+    },
+    { "category": "health", "src": "images/events.images/cruise.png", "alt": "Health 1" },
+    { "category": "health", "src": "images/events.images/skate1.png", "alt": "Health 2" },
+    { "category": "all", "src": "images/events.images/angel.2.png", "alt": "All Image 1" },
+    { "category": "all", "src": "images/events.images/art.png", "alt": "All Image 2" }
+  ]
+}
+
+
